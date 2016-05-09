@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6806651741185709
+  lightness: 0.7082391952783712
+  rhythmicContrast: 0.8226623017334194
+  saturation: 0.43850445727273457
+cta: {}
+layout_spectrum: 0.0820546306826414
+name: jus
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.5349568775925182
